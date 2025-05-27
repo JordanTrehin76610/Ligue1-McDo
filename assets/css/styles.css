@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: white;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .saison {
-  margin-left: 25rem;
+  margin-left: 26rem;
 }
 
 .chrono {
@@ -73,7 +73,7 @@ body {
 }
 
 .news {
-  height: 65rem;
+  height: 75rem;
 }
 
 @media (max-width: 450px) {
@@ -83,5 +83,9 @@ body {
   }
   .club {
     width: 10em;
+  }
+  .overflooz {
+    overflow-x: scroll;
+    width: 100vw;
   }
 }/*# sourceMappingURL=styles.css.map */
