@@ -43,21 +43,19 @@ body {
 }
 
 .table-violet {
-  border-top: 2px solid violet;
-  border-bottom: 2px solid violet;
+  border-bottom: 1px solid violet;
 }
 
 .table-orange {
-  border-bottom: 2px solid orange;
+  border-bottom: 1px solid orange;
 }
 
 .table-vert {
-  border-bottom: 2px solid green;
+  border-bottom: 1px solid green;
 }
 
 .table-rouge {
-  border-top: 2px solid red;
-  border-bottom: 2px solid red;
+  border-bottom: 1px solid red;
 }
 
 .saison {
