@@ -1,1 +1,71 @@
-/*# sourceMappingURL=styles.css.map */
+body {
+  background-color: black;
+  color: white;
+}
+
+.backgroundcontenant {
+  background-color: #262624;
+}
+
+.textblanc {
+  color: white;
+}
+
+.logo {
+  width: 6rem;
+}
+
+.contenue {
+  margin-left: 17.5vw;
+  margin-right: 17.5vw;
+}
+
+.violet {
+  color: rgb(204, 20, 204);
+}
+
+.bg-violet {
+  background-color: rgb(204, 20, 204);
+}
+
+.general {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.logofoot {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.margin-cat {
+  margin-right: 2rem;
+}
+
+.table-violet {
+  border-top: 2px solid violet;
+  border-bottom: 2px solid violet;
+}
+
+.table-orange {
+  border-bottom: 2px solid orange;
+}
+
+.table-vert {
+  border-bottom: 2px solid green;
+}
+
+.table-rouge {
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+}
+
+@media (max-width: 450px) {
+  .contenue {
+    margin-left: 0vw;
+    margin-right: 0vw;
+  }
+  .club {
+    width: 10em;
+  }
+}/*# sourceMappingURL=styles.css.map */
