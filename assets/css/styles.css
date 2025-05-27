@@ -65,7 +65,7 @@ body {
 }
 
 .chrono {
-  margin-left: 2rem;
+  margin-left: 0.5rem;
 }
 
 .date {
@@ -73,7 +73,8 @@ body {
 }
 
 .news {
-  height: 75rem;
+  height: 68rem;
+  width: 31%;
 }
 
 @media (max-width: 450px) {
@@ -86,6 +87,9 @@ body {
   }
   .overflooz {
     overflow-x: scroll;
+    width: 100vw;
+  }
+  .legende {
     width: 100vw;
   }
 }/*# sourceMappingURL=styles.css.map */

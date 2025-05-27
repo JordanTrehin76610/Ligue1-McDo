@@ -64,7 +64,7 @@ body {
 }
 
 .chrono {
-    margin-left: 2rem;
+    margin-left: 0.5rem;
 }
 
 .date {
@@ -72,7 +72,8 @@ body {
 }
 
 .news {
-    height: 75rem;
+    height: 68rem;
+    width: 31%;
 }
 
 
@@ -90,6 +91,10 @@ body {
 
     .overflooz {
         overflow-x: scroll;
+        width: 100vw;
+    }
+
+    .legende {
         width: 100vw;
     }
 }
